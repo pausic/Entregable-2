@@ -1,0 +1,15 @@
+.label{
+	-fx-text-fill: white;
+}
+.root, .menu-bar, .tab, .menu-item, .chart{
+	-fx-background-color: #000000;
+}
+
+.text{
+    -fx-fill: white;
+}
+.tab-pane:top{
+    -fx-background-color: #000000;
+    -fx-border-color: #000000;
+}
+
